@@ -6,10 +6,19 @@ body{
     width: auto;
     padding: 1em;
     border: 1px solid #000;
+    border-radius: .3em;
     margin: 0 auto;
     color: #569852;
 }
 
 #container h1{
     font-size: 20px;
+}
+
+#other{
+    font-size: 30px;
+    color: #FFF;
+    background-color:#00F ;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: .1em;
 }
