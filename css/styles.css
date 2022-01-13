@@ -2,3 +2,14 @@ body{
     text-align: center;
     font-family: "Arial";
 }
+#container{
+    width: auto;
+    padding: 1em;
+    border: 1px solid #000;
+    margin: 0 auto;
+    color: #569852;
+}
+
+#container h1{
+    font-size: 20px;
+}
