@@ -1,24 +1,25 @@
 body{
     text-align: center;
     font-family: "Arial";
+    background: rgb(104, 104, 104);
 }
 #container{
-    width: auto;
-    padding: 1em;
+    width: 80%;
+    background: #fff;
     border: 1px solid #000;
     border-radius: .3em;
     margin: 0 auto;
-    color: #496163;
+    color: #495a5c;
 }
 
 #container h1{
     font-size: 20px;
 }
 
-#other{
-    font-size: 30px;
-    color: #FFF;
-    background-color:#00F ;
+#header{
+    color: #fff;
+    background-color: #37488b;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-    border-radius: .1em;
+    margin: 0;
+    padding: 0.5em;
 }
